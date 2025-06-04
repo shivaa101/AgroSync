@@ -21,8 +21,7 @@
 
 You can run the app directly using Snack:
 
-👉 [Open in Snack](https://snack.expo.dev/) (Replace this link with your project URL)
-
+👉 [Open in Snack](https://snack.expo.dev/@shivambhagwat/agrosync)
 ### Or Clone and Run Locally
 
 ```bash
