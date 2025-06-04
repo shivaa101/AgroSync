@@ -41,5 +41,5 @@ npx expo start
 
 
 🙌 Author
-Built with ❤️ by Shivam Bhagwat Namdev
+Built with ❤️ by Shivam Bhagwat 
 MIT Academy of Engineering, Pune
