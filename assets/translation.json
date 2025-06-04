@@ -1,0 +1,178 @@
+{
+  "welcome": {
+    "English": "Welcome to Agro Sync",
+    "Marathi": "AgroSync मध्ये आपले स्वागत आहे"
+  },
+  "selectLanguage": {
+    "English": "Select Your Language",
+    "Marathi": "आपली भाषा निवडा"
+  },
+  "language": {
+    "English": {
+      "english": "English",
+      "marathi": "Marathi"
+    },
+    "Marathi": {
+      "english": "इंग्रजी",
+      "marathi": "मराठी"
+    }
+  },
+  "continue": {
+    "English": "Continue",
+    "Marathi": "पुढे जा"
+  },
+  "login": {
+    "title": {
+      "English": "Login",
+      "Marathi": "लॉगिन"
+    },
+    "mobileNumber": {
+      "English": "Mobile Number",
+      "Marathi": "मोबाईल नंबर"
+    },
+    "pinCode": {
+      "English": "PIN Code",
+      "Marathi": "पिन कोड"
+    },
+    "signUp": {
+      "English": "Sign Up",
+      "Marathi": "साइन अप करा"
+    },
+    "goToSignup": {
+      "English": "Go to Signup",
+      "Marathi": "साइन अप करण्यासाठी जा"
+    }
+  },
+  "home": {
+    "weather": {
+      "English": "Weather",
+      "Marathi": "हवामान"
+    },
+    "feelsLike": {
+      "English": "Feels Like",
+      "Marathi": "जाणवते"
+    },
+    "minTemp": {
+      "English": "Min Temp",
+      "Marathi": "किमान तापमान"
+    },
+    "maxTemp": {
+      "English": "Max Temp",
+      "Marathi": "कमाल तापमान"
+    },
+    "windSpeed": {
+      "English": "Wind Speed",
+      "Marathi": "वाऱ्याचा वेग"
+    },
+    "humidity": {
+      "English": "Humidity",
+      "Marathi": "आर्द्रता"
+    },
+    "noForecast": {
+      "English": "No forecast data available.",
+      "Marathi": "हवामान अंदाज उपलब्ध नाही."
+    }
+  },
+  "navigation": {
+    "home": {
+      "English": "Home",
+      "Marathi": "होम"
+    },
+    "book": {
+      "English": "Book",
+      "Marathi": "बुक"
+    },
+    "add": {
+      "English": "Add",
+      "Marathi": "जोडा"
+    },
+    "profile": {
+      "English": "Profile",
+      "Marathi": "प्रोफाइल"
+    },
+    "logout": {
+      "English": "Logout",
+      "Marathi": "लॉगआउट"
+    }
+  },
+  "addResource": {
+    "title": {
+      "English": "Create Resource",
+      "Marathi": "संसाधन तयार करा"
+    },
+    "selectType": {
+      "English": "Select Resource Type:",
+      "Marathi": "संसाधन प्रकार निवडा:"
+    },
+    "resourceTypes": {
+      "Crop": {
+        "English": "Crop",
+        "Marathi": "पीक"
+      },
+      "Vehicle": {
+        "English": "Vehicle",
+        "Marathi": "वाहन"
+      },
+      "Cattle": {
+        "English": "Cattle",
+        "Marathi": "गुरेढोरे"
+      }
+    },
+    "resourceName": {
+      "English": "Enter Name of Resource:",
+      "Marathi": "संसाधनाचे नाव प्रविष्ट करा:"
+    },
+    "resourceSize": {
+      "English": "Enter Resource Size:",
+      "Marathi": "संसाधन आकार प्रविष्ट करा:"
+    },
+    "resourceDescription": {
+      "English": "Enter Resource Description:",
+      "Marathi": "संसाधन वर्णन प्रविष्ट करा:"
+    },
+    "startDate": {
+      "English": "Enter Start Date:",
+      "Marathi": "प्रारंभ तारीख प्रविष्ट करा:"
+    },
+    "save": {
+      "English": "Save",
+      "Marathi": "जतन करा"
+    },
+    "cancel": {
+      "English": "Cancel",
+      "Marathi": "रद्द करा"
+    },
+    "successMessage": {
+      "English": "Details saved successfully!",
+      "Marathi": "तपशील यशस्वीरित्या जतन केले!"
+    },
+    "fillFieldsMessage": {
+      "English": "Please fill all fields",
+      "Marathi": "कृपया सर्व फील्ड भरा"
+    },
+    "placeholders": {
+      "resourceName": {
+        "English": "Enter resource name",
+        "Marathi": "संसाधन नाव प्रविष्ट करा"
+      },
+      "resourceSize": {
+        "English": "Enter resource size",
+        "Marathi": "संसाधन आकार प्रविष्ट करा"
+      },
+      "resourceDescription": {
+        "English": "Enter resource description",
+        "Marathi": "संसाधन वर्णन प्रविष्ट करा"
+      }
+    }
+  },
+  "popup": {
+    "message": {
+      "English": "Message",
+      "Marathi": "संदेश"
+    },
+    "ok": {
+      "English": "OK",
+      "Marathi": "ठीक आहे"
+    }
+  }
+}
